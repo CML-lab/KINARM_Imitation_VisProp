@@ -1,0 +1,6 @@
+This task implements a xlyophone where targets are displayed and a sound is made whenever a target is hit. The pitch of the sound can be modified for each target. This can be used for a bimanual or endpoint Kinarm.
+
+Make sure to double-click on TonePlayer.jar before running the task in Dexterit-E. Otherwise, no sound will occur.
+
+
+or from the command line: java -jar toneplayer.jar
